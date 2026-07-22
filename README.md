@@ -1,25 +1,29 @@
-# Hey, I'm lauti 👋
+<div align="center">
+
+# Hey, I'm Chase 👋
 
 ### Gameplay Programmer @ PlayVerse
 
-I build high-performance Roblox gameplay systems with a focus on scalable architecture and polished multiplayer experiences.
+I build polished and scalable Roblox systems using Luau.
 
-## Skills
-- ⚔️ Combat Systems
-- 🌐 Multiplayer Networking
-- 💾 DataStores
-- 🎒 Inventory & Progression
-- 🖥️ UI/UX
-- ⚡ Performance Optimization
+[![Portfolio](https://img.shields.io/badge/Portfolio-astara.info-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://astara.info/portfolio)
+[![Discord](https://img.shields.io/badge/Discord-lauti-111111?style=for-the-badge&logo=discord&logoColor=white)](#)
 
-## Tech
-`Luau` • `TypeScript` • `Knit` • `BridgeNet2` • `Rojo` • `Git`
-
-## Portfolio
-🌐 https://astara.info/portfolio
-
-## Contact
-Discord: `lautino`
+</div>
 
 ---
-*"Building systems that scale."*
+
+## About Me
+
+- 7+ years of Roblox scripting experience
+- Focused on gameplay systems and multiplayer architecture
+- Experienced with production codebases and team development
+- Interested in combat, progression, networking, and optimization
+
+## Specialties
+
+```text
+Combat Systems        Multiplayer Networking
+DataStores            Inventory Systems
+Progression Systems   UI Integration
+Character Systems     Performance Optimization

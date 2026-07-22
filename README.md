@@ -7,7 +7,7 @@
 I build polished and scalable Roblox systems using Luau.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-astara.info-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://astara.info/portfolio)
-[![Discord](https://img.shields.io/badge/Discord-lauti-111111?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-lautino-111111?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 </div>
 
